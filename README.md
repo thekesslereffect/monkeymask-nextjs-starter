@@ -22,7 +22,7 @@ A modern Next.js starter template with MonkeyMask integration for Banano cryptoc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/thekesslereffect/monkeymask/tree/main/monkeymask-nextjs-starter
+   git clone https://github.com/thekesslereffect/monkeymask-nextjs-starter.git
    cd monkeymask-nextjs-starter
    ```
 
